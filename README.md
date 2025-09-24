@@ -32,12 +32,11 @@ Vista previa visual del proyecto:
 ## 📁 Acceso al proyecto
 
 Puedes revisar el código fuente y el proyecto completo en el siguiente repositorio:  
-[Repositorio Amigo Secreto](https://github.com/Yoshi808/AmigoSecreto)
-
+[Repositorio Amigo Secreto](https://github.com/LuisAlfredoCanizalez/Desaf-oAmigoSecreto)
 ---
 
 ## 🛠️ Instrucciones para ejecutar el proyecto
 
 1. Clona este repositorio en tu máquina local:  
    ```bash
-   git clone https://github.com/Teolinlesp/desafioAmigoSecreto
+   git clone https://github.com/LuisAlfredoCanizalez/Desaf-oAmigoSecreto
